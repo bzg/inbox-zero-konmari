@@ -1,0 +1,126 @@
+#+TITLE: Merlin Mann et Marie Kondō... 
+#+subtitle: ... sont dans une boîte d'emails
+#+AUTHOR: Bastien Guerry -- https://bzg.fr
+#+email: bzg@bzg.fr
+#+date: Février 2019
+#+options: html-postamble:nil html-preamble:nil toc:nil
+# #+latex_header: \hypersetup{colorlinks=true}
+#+BEAMER_HEADER: \definecolor{links}{HTML}{0000A0}
+#+BEAMER_HEADER: \hypersetup{colorlinks=,linkcolor=,urlcolor=links}
+
+* Les emails sont là pour toujours.
+
+- Le premier email a été envoyé il y a *48 ans.*
+- Les emails font *autorité*.
+- Ils ne sont *pas éditables* une fois envoyés.
+- Ils ne sont *pas effaçables* chez l'autre.
+- Il y a *écosystème riche de clients.*
+
+* La relation aux emails ?  C'est compliqué.
+
+- Une relation *intense* : plusieurs fois par jour.
+- Une relation *complexe* : des mails de toutes sortes.
+- Des *infidélités* multiples : Slack, etc.
+
+* Avez-vous un problème avec vos emails ?
+
+- « Je reçois trop d'emails ! »
+- « Je lis plusieurs fois le même message. »
+- « Je HAIS les emails. »
+- « Devant certains mails, je ne sais pas si je dois répondre. »
+- « J'ai déjà raté des emails importants. »
+- « J'ai essayé sans succès de changer ma gestion des emails. »
+- « Mon client de messagerie est une plaie. »
+
+* Qui est Merlin Mann ?
+* La méthode Inbox Zéro
+
+Merlin Mann a nommé [[https://www.youtube.com/watch?v=z9UjeTMb3Yk][Inbox Zero]] une méthode de gestion des emails, qui
+repose sur trois principes :
+
+- Être *proactif* plutôt que réactif.
+- Mettre en place des *routines*, pas juste des outils.
+- *Traiter tous les emails*, pas juste lire ou répondre.
+
+* Qui est Marie Kondō ?
+* La méthode KonMari
+
+Marie Kondō a initié [[https://konmari.com/][KonMari]], une façon de réparer votre relation à
+votre environnement physique.  Elle repose sur trois principes :
+
+- *YAGNI* : You Ain't Gonna Need it.  Débarrassez-vous de tout ce qui ne
+  vous sert pas.
+
+- *Y'a d'la joie*.  Débarrassez-vous de tout ce qui ne suscite pas chez
+  vous de la joie.
+
+- *Une fois pour toutes*.  Faites le ménage d'un coup, cela créera un
+  petit « trauma » qui vous fera prendre le bon pli.
+
+* Vous et vos emails : faites un diagnostic
+
+Commencez par vous demander où vous en êtes dans votre relation à vos
+emails.
+
+- Combien de mails recevez-vous par jour ?
+- Combien de mails envoyez-vous par jour ?
+- Combien de fois relisez-vous un mail au lieu de le traiter ?
+- Utilisez-vous votre messagerie comme /TODO list/ ?  *Erreur* !
+- Lisez-vous vos emails au petit bonheur la chance ?  *Erreur* !
+
+* Quelques actions avant le grand ménage
+
+- *Archivez et effacez* le plus d'emails d'un coup.
+- *Déinscrivez-vous* des /newsletters/ que vous ne lisez pas.
+- *Désactivez les notifications email inutiles*.
+- Repérez les *moments opportuns* pour votre routine.
+
+* Cinq actions pour votre routine de traitement d'emails
+
+Installez une *routine* - chaque fois que vous traitez les emails :
+
+- /Delete/ (and archive) : effacez tout de suite les emails inutiles.
+- /Delegate/ (and follow up) : faites suivre les emails à d'autres.
+- /Respond/ (and use [[http://five.sentenc.es][five.sentenc.es]] ?) : répondez tout de suite.
+- /Defer/ (use a TODO list) : faites entrer l'email dans une tâche.
+- /Do/ (and enjoy !) : faite la tâche demandée dans l'email.
+
+Traitez *TOUS* vos mails à chaque fois.
+
+* KonMari + Inbox Zero
+
+Combiner l'approche de KonMari et d'Inbox Zero :
+
+- Faites un *grand nettoyage* de printemps de vos emails.
+- Mettez en place une *routine de traitement* des emails.
+
+* /Checklist/ accessoire
+
+- Avez-vous besoin d'être en temps réel sur vos emails ?
+- Avez-vous besoin de lire toutes vos boîtes à chaque fois ?
+- Pouvez-vous lier un message à votre TODO list ?
+- Pouvez-vous retarder l'envoi de certains emails ?
+- Utilisez-vous les brouillons pour les emails importants ?
+- Utilisez-vous un seul répertoire pour vos archives ?
+- Relisez-vous vos emails ?
+
+* La bonne nouvelle : c'est accessible à tous !
+
+[[file:img/bastienguerry.jpg]]
+
+* Ressources
+
+- [[https://www.youtube.com/watch?v=z9UjeTMb3Yk][Merlin Mann on Inbox Zero]]
+- [[https://www.youtube.com/watch?v=uOgHE5nEq04][Merlin Mann on Time and Attention]] (and GTD)
+- http://www.43folders.com/topics/inbox-zero
+- https://konmari.com
+- [[http://www.mariekondobooks.com][Marie Kondō books]]
+- [[http://joeyh.name/blog/entry/thread_patterns/][Comment lire des fils de discussion]]
+
+* Crédits
+
+Les images sont © Merlin Mann, © Marie Kondō, © S. Chakroun.
+
+\hspace{2cm}
+
+Le texte est sous licence [[https://creativecommons.org/licenses/by-sa/4.0/][Creative Commons by-sa 4.0]].
